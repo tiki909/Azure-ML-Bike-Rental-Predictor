@@ -1,6 +1,6 @@
 # Azure-ML-Bike-Rental-Predictor
 
- Azure Machine Learning Studio: English
+ Azure Machine Learning Studio (bike rental project): English
 
 First, I opened up my web browser and headed to the Azure Machine Learning Studio portal.
 Logging in and Finding the Authoring Section:
